@@ -35,7 +35,7 @@ With a background spanning lead optimization and aerial network design analytics
 
 ## 🏆 Featured Portfolio Projects
 
-### 📊 [FMCG Sales Dashboard](https://github.com/your-username/fmcg-sales-dashboard (`Power BI`, `SQL`, `DAX`)
+### 📊 [FMCG Sales Dashboard] (`Power BI`, `SQL`, `DAX`)
 * Engineered a robust star schema data model from raw SQL data to eliminate fragmented sales tracking across diverse product categories.
 * Implemented advanced DAX measures for dynamic filtering, uncovering underperforming SKUs and cutting executive reporting time by 40%.
 * **Impact:** Reduced inventory waste by 15% and provided an organizational "single source of truth".
