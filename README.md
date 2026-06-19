@@ -35,6 +35,14 @@ With a background spanning lead optimization and aerial network design analytics
 
 ## 🏆 Featured Portfolio Projects
 
+### 🛢️ [Zepto E-Commerce SQL Analysis](https://github.com/Anandu-DA/zepto-ecommerce-sql-analysis) (`SQL` - *EDA, Data Cleaning, Business Insights*)
+* **The Project:** A complete, real-world data analyst project based on an e-commerce inventory dataset scraped from Zepto to simulate real-world retail and quick-commerce analyst workflows.
+* **What I Did:** * Architected a robust PostgreSQL database table layout and resolved source CSV file UTF-8 encoding ingestion roadblocks.
+  * Cleaned messy production catalog data by removing zero-price anomalies and mathematically converting financial metrics from native *paise* units into standard Indian Rupees (₹).
+  * Performed Exploratory Data Analysis (EDA) to audit missing fields, isolate stock-out ratios, and map duplicate SKUs.
+  * Wrote advanced business logic queries to isolate top-discounted products, estimate category revenue potential, calculate unit economics (price-per-gram), and segment stock into operational weight tiers (*Low, Medium, Bulk*).
+* **Impact:** Provides an optimized backend inventory "source of truth" to track financial margins, understand customer value positioning, and manage inventory stockout risks seamlessly.
+
 ### 📊 [FMCG Sales Dashboard] (`Power BI`, `SQL`, `DAX`)
 * Engineered a robust star schema data model from raw SQL data to eliminate fragmented sales tracking across diverse product categories.
 * Implemented advanced DAX measures for dynamic filtering, uncovering underperforming SKUs and cutting executive reporting time by 40%.
