@@ -1,65 +1,51 @@
-# 🚀 Hi, I'm Anandu Raveendran | Data Analyst
+<div align="center">
 
-I'm a detail-focused Data Analyst with 2+ years of experience building predictive models, automated reporting pipelines, and interactive dashboards. My expertise lies in transforming complex, messy datasets into clear, actionable business stories that drive efficiency and revenue growth.
+# Hi, I'm Anandu Raveendran 👋
+### Building Actionable Data Pipelines, Automated KPIs, and Interactive Dashboards
 
-With a background spanning lead optimization and aerial network design analytics, I excel at bridging the gap between raw backend data and senior leadership strategy. I love the "aha!" moment when a clean visualization makes a complex trend instantly obvious.
+![Profile views](https://komarev.com/ghpvc/?username=Anandu-DA&color=blue&style=flat-square)
 
----
-
-## 🛠️ Technical Skillset
-
-### 📊 Data Analysis & Visualization
-* **Core Competencies:** Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation, ETL, KPI Development, RFM Segmentation
-* **BI Tools:** Power BI, Advanced Excel
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-
-### 💻 Programming & Databases
-* **Languages:** Python, SQL
-* **Databases:** PostgreSQL, MySQL, SQL Server
-* **Development Tools:** VS Code, Jupyter Notebook
+</div>
 
 ---
 
-## 🔭 Professional Impact
+### 🚀 About Me
+[cite_start]I am a detail-focused Data Analyst with 2+ years of professional experience building predictive models, automated reporting pipelines, and interactive dashboards. [cite_start]I specialize in translating complex, messy production datasets into clear, structured business stories that optimize operations and drive revenue growth[cite: 5, 6]. 
 
-### **Data Analyst | Thinkcogent LLP** *(Jan 2025 – Present)*
-* **Lead Conversion & Pipeline Automation:** Ingested and validated 9,700+ lead records using SQL/Python scripts, reducing noise and improving lead conversion rates by 20%.
-* **Executive Dashboards:** Built 12+ Power BI dashboards for lead conversion and revenue tracking; automated MoM/YoY growth and KPI reporting using SQL and DAX to remove visibility gaps for leadership.
-* **Product Dataset EDA:** Conducted deep EDA using Pandas and NumPy to uncover seasonal trends and behavioral patterns, directly informing client campaign strategies.
-
-### **Data Specialist | Netza Technologies** *(Sep 2023 – Nov 2024)*
-* **Predictive Insights:** Developed a Python and Power BI tracking dashboard to pinpoint project bottlenecks in aerial network designs, improving deployment forecasting accuracy by 15%.
-* **Data Quality Engineering:** Automated ETL and reconciliation processes to clean complex datasets and resolve site record inconsistencies.
+[cite_start]With a background spanning quick-commerce lead analysis and aerial network design analytics, I excel at bridging the gap between raw data structures and senior leadership strategy[cite: 9, 11, 16, 19]. 
 
 ---
 
-## 🏆 Featured Portfolio Projects
-
-### 🛢️ [Zepto E-Commerce SQL Analysis](https://github.com/Anandu-DA/zepto-ecommerce-sql-analysis) (`SQL` - *EDA, Data Cleaning, Business Insights*)
-* **The Project:** A complete, real-world data analyst project based on an e-commerce inventory dataset scraped from Zepto to simulate real-world retail and quick-commerce analyst workflows.
-* **What I Did:** * Architected a robust SQL database table layout and resolved source CSV file UTF-8 encoding ingestion roadblocks.
-  * Cleaned messy production catalog data by removing zero-price anomalies and mathematically converting financial metrics from native *paise* units into standard Indian Rupees (₹).
-  * Performed Exploratory Data Analysis (EDA) to audit missing fields, isolate stock-out ratios, and map duplicate SKUs.
-  * Wrote advanced business logic queries to isolate top-discounted products, estimate category revenue potential, calculate unit economics (price-per-gram), and segment stock into operational weight tiers (*Low, Medium, Bulk*).
-* **Impact:** Provides an optimized backend inventory "source of truth" to track financial margins, understand customer value positioning, and manage inventory stockout risks seamlessly.
-
-### 📊 [FMCG Sales Dashboard] (`Power BI`, `SQL`, `DAX`)
-* Engineered a robust star schema data model from raw SQL data to eliminate fragmented sales tracking across diverse product categories.
-* Implemented advanced DAX measures for dynamic filtering, uncovering underperforming SKUs and cutting executive reporting time by 40%.
-* **Impact:** Reduced inventory waste by 15% and provided an organizational "single source of truth".
-
-### 🛢️ [Customer Order Pattern Analysis] (`SQL` - *CTEs, Window Functions*)
-* Executed an RFM (Recency, Frequency, Monetary) analysis on a 100K+ record database to segment the customer base into distinct value tiers.
-* **Impact:** Identified that the top 20% of high-value customers contributed to 75% of total revenue, enabling high-ROI retention campaigns and predictable repeat purchase cycles.
-
-### 📈 [Retail Performance Dashboard] (`Power BI`, `DAX`)
-* Designed an interactive KPI dashboard to monitor revenue, store performance, inventory turnover, and monthly growth trends.
-* Built optimized data models with structured fact and dimension tables, developing targeted DAX measures for clean MoM comparisons.
+### 🌱 Currently Exploring
+* [cite_start]Deploying advanced optimization techniques in **PostgreSQL** and **SQL Server**[cite: 22].
+* [cite_start]Building complex automated workflows using **Python-based analytical models**[cite: 6].
 
 ---
 
-## 📬 Connect With Me
+### 📊 Featured Portfolio Projects
 
-* **LinkedIn:** [linkedin.com/in/anandu-raveendran20-](https://linkedin.com/in/anandu-raveendran20-/)
-* **Email:** ananduraveendran20@gmail.com
-* **Location:** Kannur, Kerala, India
+#### 🛢️ [Zepto E-Commerce SQL Analysis](https://github.com/Anandu-DA/zepto-ecommerce-sql-analysis) (`SQL` - *EDA, Data Cleaning, Business Insights*)
+* **The Project:** A complete data analyst portfolio project based on inventory data scraped from Zepto to simulate real-world e-commerce data workflows.
+* **What I Did:** Architected a PostgreSQL schema, engineered data cleaning workflows to eliminate pricing anomalies, and implemented complex queries to analyze category revenues and stockout patterns.
+* **Impact:** Created a single source of truth for tracking active product metrics, inventory margins, and supply chain stock health.
+
+#### 📈 [FMCG Sales Dashboard](https://github.com/Anandu-DA/fmcg-sales-dashboard) (`Power BI`, `SQL`, `DAX`)
+* [cite_start]**The Problem:** Fragmented sales data left leadership struggling to isolate regional tracking inefficiencies across dynamic product categories[cite: 31, 32].
+* [cite_start]**What I Did:** Structured a robust star schema data model and authored advanced DAX measures to enable deep-dive filtering[cite: 24, 31, 33].
+* [cite_start]**Impact:** Reduced overall inventory waste by 15% and cut executive reporting overhead timelines by 40%[cite: 34].
+
+---
+
+### 🛠️ Technical Skillset
+
+* [cite_start]**Languages & Databases:** Python, SQL, PostgreSQL, MySQL, SQL Server [cite: 21, 22]
+* [cite_start]**Libraries & frameworks:** Pandas, NumPy, Matplotlib, Seaborn [cite: 23]
+* [cite_start]**BI & Analytics:** Power BI, Advanced Excel, ETL, RFM Segmentation, Star Schema [cite: 24]
+* [cite_start]**Development Tools:** VS Code, Jupyter Notebook [cite: 25]
+
+---
+
+### 📬 Reach Out
+* [cite_start]**LinkedIn:** [linkedin.com/in/anandu-raveendran20-](https://linkedin.com/in/anandu-raveendran20-/) [cite: 3]
+* [cite_start]**Email:** ananduraveendran20@gmail.com [cite: 3]
+* [cite_start]**Location:** Kannur, Kerala, India [cite: 3]
