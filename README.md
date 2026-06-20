@@ -12,18 +12,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 Detail-focused Data Analyst with 2+ years of experience building predictive models, automated pipelines, and interactive dashboards. I specialize in SQL optimization, Power BI, and Python to seamlessly bridge the gap between raw data structures and senior leadership strategy.
 
 ### Currently Exploring
 I am continually enhancing my expertise in advanced SQL analytical techniques and deploying production-ready Python automation models.
 
-###  Projects
+### Projects
 All of my data analytics projects can be found directly on my GitHub Profile: **[Projects](https://github.com/Anandu-DA?tab=repositories)**
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 
 
 * **Databases:** PostgreSQL, MySQL, SQL Server
